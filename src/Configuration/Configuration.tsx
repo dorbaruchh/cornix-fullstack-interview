@@ -8,4 +8,5 @@ export default Configuration;
 
 const Wrapper = styled.div`
   padding: 20px;
+  text-align: center;
 `;
