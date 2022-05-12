@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9840294-bb3d-4e32-871c-bfa6d67349f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Configuration/Configuration.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Configuration/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Configuration/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Configuration/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/5d19e8b067da142623784aa2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/APP_ID" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/ChangelogWidgetBundle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/ChangelogWidgetBundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/amplitude-4.4.0-min.gz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/analytics(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/analytics.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/css2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/fs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/gtm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/index.00c4a7d9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/index.19c2324c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/index.d1d6f176.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/index.e50fac0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/inner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/insight.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/integrations" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/iubenda_cons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/m-outer-41c7179a4508dac9b493edef16b720c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/m-outer-e1e751e94bfd53049a0ada304f917c0f.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/mixpanel-2-latest.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/out-4.5.41.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/saved_resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_files/sdk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28xCR7dXCuKmhjVaqUuyAVCmFBR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9840294-bb3d-4e32-871c-bfa6d67349f4" name="Changes" comment="" />
+      <created>1652148839123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652148839123</updated>
+      <workItem from="1652148840320" duration="4816000" />
+      <workItem from="1652233895256" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
